@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1493646751 source:/media/karim/14FAFCF960F4BC58/University/Year 4/Term 2/Discrete Mathematics/Project/Discrete_Project/main.cpp
+	<iostream>
+	<stdio.h>
+	<cstring>
+	<string>
+	<fstream>
+	<cmath>
+	<vector>
+	<map>
+
